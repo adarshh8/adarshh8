@@ -18,7 +18,7 @@
 💻 Role: Full Stack Developer  
 🎨 Interests: UI/UX, DevOps, Cloud, and Open Source  
 🧩 Philosophy: “Make it work, make it right, make it fast.”  
-📫 Reach me at: **adarsh@example.com**
+📫 Reach me at: **adarshdwivedi9598@gmail.com**
 
 ---
 
