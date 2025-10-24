@@ -11,7 +11,7 @@
 🌱 Currently learning **React.js + Node.js + Cloud Deployment**  
 💡 I love building **interactive web apps** and **automating things**  
 🎨 I enjoy making **aesthetic UI** and **smooth UX**  
-📫 Reach me at: **adarshdwivedi@example.com** *(replace with yours)*  
+📫 Reach me at: **adarshdwivedi9598@gmail.com**   
 ⚡ Fun fact: I debug with music 🎧  
 
 ---
@@ -64,8 +64,8 @@
 
 ### 💬 Let's Connect  
 <p align="center">
-  <a href="https://linkedin.com/in/adarshdwivedi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:adarshdwivedi@example.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/adarsh8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:adarshdwivedi9598@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/adarshh8"><img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
