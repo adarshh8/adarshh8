@@ -1,82 +1,76 @@
-# Hi there, I'm Adarsh 👋
+<h1 align="center">Hey there 👋, I'm Adarsh Dwivedi</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN | Java | Open Source Enthusiast</h3>
 
-![header](https://user-images.githubusercontent.com/91790/placeholder-header.gif)
-
-<!--
-  Instructions:
-  1. Replace placeholder images, GIFs and links with your own (search for `REPLACE_ME`).
-  2. Copy the full content of this file into `README.md` in a repo named exactly the same as your GitHub username (e.g. `adarshdwivedi/adarshdwivedi`).
-  3. Commit and push — GitHub will render it on your profile page.
--->
-
-## 🔭 About Me
-
-* Full Stack Developer passionate about building beautiful, performant web apps.
-* Currently learning: **TypeScript**, **Next.js**, and advanced **Node.js architecture**.
-* Fun fact: I like clean UI, minimal design, and good variable names.
-
-## ✨ Highlights
-
-* 🔥 Built and shipped multiple production projects used by real users.
-* ⚡ Fast learner — love converting ideas into working products.
-* 🎯 Focused on readable, well-tested code.
-
-## 🛠️ Tech Stack
-
-| Frontend                               | Backend                    | DevOps                           | Databases                    | Tools                  |
-| -------------------------------------- | -------------------------- | -------------------------------- | ---------------------------- | ---------------------- |
-| React • Next.js • Tailwind CSS • Redux | Node.js • Express • NestJS | Docker • GitHub Actions • Vercel | PostgreSQL • MongoDB • Redis | Git • VSCode • Postman |
-
-## 🚀 Featured Projects
-
-> Replace the repository links and descriptions with your own top projects.
-
-### [Project-One](https://github.com/REPLACE_ME/project-one)
-
-* Short tagline about what it does, the tech used, and a key achievement (e.g. handled 10k users/day).
-
-### [Project-Two](https://github.com/REPLACE_ME/project-two)
-
-* Short tagline and notable features.
-
-### [Project-Three](https://github.com/REPLACE_ME/project-three)
-
-* Short tagline and what makes it unique.
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=REPLACE_ME&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=REPLACE_ME&theme=dark&fire=FFFFFF" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4CF7F7&width=435&lines=Building+cool+web+apps+💻;Exploring+the+world+of+code+🌍;Turning+ideas+into+reality+🚀" alt="Typing SVG" />
 </p>
 
-## 🏆 Achievements
+---
 
-* ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_ME\&layout=compact)
-* Add badges for competitions, courses, or certifications (LeetCode, CodeChef, Coursera, etc.).
-
-## 📫 How to reach me
-
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/REPLACE_ME)
-* Twitter: [@yourhandle](https://twitter.com/REPLACE_ME)
+### 🧠 About Me  
+🌱 Currently learning **React.js + Node.js + Cloud Deployment**  
+💡 I love building **interactive web apps** and **automating things**  
+🎨 I enjoy making **aesthetic UI** and **smooth UX**  
+📫 Reach me at: **adarshdwivedi@example.com** *(replace with yours)*  
+⚡ Fun fact: I debug with music 🎧  
 
 ---
 
-### Tips to make this README more attractive
+### 🛠️ Tech Stack  
+#### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
 
-1. Use a clean header GIF or SVG — keep it subtle and not too flashy.
-2. Keep project descriptions short and link to demos/screenshots.
-3. Use shields for latest release, license, or build status: e.g. `![release](https://img.shields.io/github/v/release/REPLACE_ME/project-one)`.
-4. Add a screenshot gallery using Markdown image tags and link them to live demos.
-5. Use `github-readme-stats` and `github-readme-streak-stats` for dynamic stats.
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=nodedotjs&logoColor=green)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### ☁️ Others
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-> If you want, I can now:
->
-> * convert this README into a more minimal, portfolio style, or developer-portfolio website (single-file React/HTML),
-> * generate a matching profile header GIF (instructions + free tools), or
-> * create Markdown badges and screenshots for specific projects — tell me which one.
+### 📊 GitHub Stats
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adarshh8&show_icons=true&theme=radical" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshh8&theme=radical" />
+</p>
 
-*Made with ❤️ — tweak freely and make it yours.*
+---
+
+### 🪄 Highlight Projects  
+🌐 [**Portfolio Website**](https://github.com/adarshh8/portfolio) – My personal responsive portfolio  
+🎮 [**Snake & Ladder Game**](https://github.com/adarshh8/snake-and-ladder) – Fun JS board game  
+📚 [**Todo App (EJS + Node)**](https://github.com/adarshh8/todo-list) – Simple backend project  
+
+---
+
+### 🌈 Aesthetic Touch  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adarshh8&theme=onedark&row=1&no-frame=true&margin-w=15" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/adarshh8/adarshh8/blob/main/assets/wave.svg" width="100%" />
+</p>
+
+---
+
+### 💬 Let's Connect  
+<p align="center">
+  <a href="https://linkedin.com/in/adarshdwivedi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:adarshdwivedi@example.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/adarshh8"><img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adarshh8&label=Profile%20Views&color=0e75b6&style=flat" alt="adarshh8" />
+</p>
