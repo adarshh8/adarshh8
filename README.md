@@ -42,7 +42,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshh8&theme=radical" />
 </p>
 
----
+
 
 ### 🪄 Highlight Projects  
 🌐 [**Portfolio Website**](https://github.com/adarshh8/portfolio) – My personal responsive portfolio  
