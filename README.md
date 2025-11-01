@@ -1,9 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Adarsh Dwivedi</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN | Java | Open Source Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4CF7F7&width=435&lines=Building+cool+web+apps+💻;Exploring+the+world+of+code+🌍;Turning+ideas+into+reality+🚀" alt="Typing SVG" />
-</p>
+
 
 ---
 
