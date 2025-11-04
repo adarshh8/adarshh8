@@ -1,8 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Adarsh Dwivedi</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN | Java | Open Source Enthusiast</h3>
 
-
-
 ---
 
 ### 🧠 About Me  
@@ -40,7 +38,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshh8&theme=radical" />
 </p>
 
-
+---
 
 ### 🪄 Highlight Projects  
 🌐 [**Portfolio Website**](https://github.com/adarshh8/portfolio) – My personal responsive portfolio  
@@ -49,14 +47,31 @@
 
 ---
 
-### 🌈 Aesthetic Touch  
+### 🏅 Holopin Badges  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adarshh8&theme=onedark&row=1&no-frame=true&margin-w=15" />
+  <a href="https://holopin.io/@adarshh8" target="_blank">
+    <img src="https://holopin.me/adarshh8" alt="@adarshh8's Holopin board" width="80%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/adarshh8/adarshh8/blob/main/assets/wave.svg" width="100%" />
+  <em>🎖️ Showcasing my digital achievements and community contributions</em>
 </p>
+
+---
+
+### 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshh8&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
+<p align="center">
+  <em>⚡ My GitHub activity graph — consistency is the key to growth 🚀</em>
+</p>
+
+---
+
+
 
 ---
 
