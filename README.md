@@ -32,7 +32,8 @@
 
 
 ### 📊 GitHub Stats & Metrics
-<img src="https://streak-stats.demolab.com?user=adarshh8" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=adarshh8&cache_seconds=86400)
+
 
 
 
