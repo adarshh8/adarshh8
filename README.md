@@ -32,7 +32,8 @@
 
 
 ### 📊 GitHub Stats & Metrics
->
+<img src="https://streak-stats.demolab.com?user=adarshh8" alt="GitHub Streak" />
+
 
 
 
