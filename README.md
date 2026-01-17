@@ -32,17 +32,9 @@
 
 
 ### 📊 GitHub Stats & Metrics
+>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarshh8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshh8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=adarshh8&theme=shadow-red&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Mon&card_width=550&card_height=200" />
-  </a>
-</p>
 
 
 ---
