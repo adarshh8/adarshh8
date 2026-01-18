@@ -160,29 +160,13 @@
 
 ---
 
-### 📨 Let's Connect
+---
 
-<div align="center" style="margin-top:8px;">
-  <a href="https://linkedin.com/in/adarshdwivedi" target="_blank" style="text-decoration:none; display:inline-block;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:your.email@gmail.com" target="_blank" style="text-decoration:none; display:inline-block;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://leetcode.com/adarshh8" target="_blank" style="text-decoration:none; display:inline-block;">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-
-  <a href="https://codolio.com/adarshh8" target="_blank" style="text-decoration:none; display:inline-block;">
-    <img src="https://img.shields.io/badge/Codolio-1F2937?style=for-the-badge&logo=code&logoColor=white"/>
-  </a>
-</div>
-
-<br/>
-
+### 👋 Bye for now!
+Thanks for stopping by my profile 😊 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adarshh8&label=Profile%20Views&color=00d2ff&style=flat-square"/>
+  <img src="https://i.pinimg.com/originals/95/0d/68/950d68cb155ec41d31d533cdfc232b07.gif" width="900">
+
 </div>
+
 
