@@ -86,7 +86,7 @@
 - ☕ Coffee is my primary dependency (npm install coffee).
 - 🧠 I don’t just write code — I *argue* with it until it works.
 - 🐛 I create bugs professionally… then fix them dramatically.
-- ⌛ I can spend hours optimizing code that already runs in milliseconds.
+- ⌛ I spend hours saving milliseconds.
 - 🌙 My best commits happen when normal humans are asleep.
 - 🔍 If something works, I still open DevTools to investigate.
 - 🤖 I talk to my code like it can hear me (sometimes it listens).
@@ -97,13 +97,14 @@
 ---
 
 ### 🐍 The Contribution Snake
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Daily;Consistent+Contributions;Dark+Mode+Developer+Profile" />
+</p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarshh8/adarshh8/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/adarshh8/adarshh8/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/adarshh8/adarshh8/output/github-contribution-grid-snake-dark.svg" width="900"/>
 </p>
+
 
 
 
