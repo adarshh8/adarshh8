@@ -10,6 +10,7 @@
 
 ---
 
+
 ### 👨‍💻 About Me
 
 <img align="right" src="https://i.pinimg.com/originals/c5/e0/99/c5e0996666b3edaea9249535c5edaf98.gif" width="280" />
@@ -113,8 +114,28 @@
   <img src="https://raw.githubusercontent.com/adarshh8/adarshh8/output/github-contribution-grid-snake-dark.svg" width="900"/>
 </p>
 
+---
+### 🚀 Projects
+
+#### 🌾 AI-Powered Farmer Assistance Platform (MERN)
+- Built a full-stack platform to assist farmers with crop guidance, expense tracking, and smart suggestions.
+- Features: JWT authentication, real-time updates, expense & income tracking, and AI-based assistance.
+- Tech Stack: React, Node.js, Express, MongoDB, Tailwind CSS  
+🔗 Live / Repo: (https://github.com/adarshh8/KrishiGyan)
 
 
+#### 🔐 Password Generator
+- A secure and customizable password generator with length & character controls.
+- Clean UI with instant copy functionality.
+- Tech Stack: HTML, CSS, JavaScript  
+🔗 Live: https://password-generator-iota-ebon-74.vercel.app/
+
+
+#### 🌐 Personal Portfolio Website
+- Responsive developer portfolio showcasing skills, projects, and contact links.
+- Optimized UI with animations and modern layout.
+- Tech Stack: React, Tailwind CSS, Vercel  
+🔗 Live: https://adarsh-dwivedi-portfolioj.vercel.app/
 
 ---
 
