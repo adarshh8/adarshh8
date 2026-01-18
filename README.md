@@ -65,6 +65,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshh8&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
+  <img
+    src="https://streak-stats.demolab.com?user=adarshh8&theme=dark&hide_border=true"
+    referrerpolicy="no-referrer"
+  />
+</div>
+
+
+
 ---
 
 ### 🤝 Open Source Contributions
