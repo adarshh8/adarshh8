@@ -142,15 +142,15 @@
 #### 🌾 AI-Powered Farmer Assistance Platform (MERN)
 - Built a full-stack platform to assist farmers with crop guidance, expense tracking, and smart suggestions.
 - Features: JWT authentication, real-time updates, expense & income tracking, and AI-based assistance.
-- Tech Stack: React, Node.js, Express, MongoDB, Tailwind CSS  
-🔗 Live / Repo: (https://github.com/adarshh8/KrishiGyan)
+- Tech Stack: React, Node.js, Express, MongoDB, Tailwind CSS.
+- 🔗 Live / Repo: (https://github.com/adarshh8/KrishiGyan)
 
 
 #### 🔐 Password Generator
 - A secure and customizable password generator with length & character controls.
 - Clean UI with instant copy functionality.
-- Tech Stack: HTML, CSS, JavaScript  
-🔗 Live: https://password-generator-iota-ebon-74.vercel.app/
+- Tech Stack: HTML, CSS, JavaScript.
+- 🔗 Live: https://password-generator-iota-ebon-74.vercel.app/
 
 #### 💱 Currency Converter
 - Converts amounts between multiple currencies using real-time exchange rates.
@@ -158,14 +158,14 @@
 - Error handling for invalid inputs and API failures.
 - Optimized for performance and smooth user experience.
 - Tech Stack: React, TailwindCSS, API.
- 🔗 Live: https://currency-converter-nine-puce.vercel.app/
+- 🔗 Live: https://currency-converter-nine-puce.vercel.app/
 
 
 #### 🌐 Personal Portfolio Website
 - Responsive developer portfolio showcasing skills, projects, and contact links.
 - Optimized UI with animations and modern layout.
-- Tech Stack: React, Tailwind CSS, Vercel  
-🔗 Live: https://adarsh-dwivedi-portfolioj.vercel.app/
+- Tech Stack: React, Tailwind CSS, Vercel
+- 🔗 Live: https://adarsh-dwivedi-portfolioj.vercel.app/
 
 ---
 
