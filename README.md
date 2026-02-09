@@ -152,6 +152,14 @@
 - Tech Stack: HTML, CSS, JavaScript  
 🔗 Live: https://password-generator-iota-ebon-74.vercel.app/
 
+#### 💱 Currency Converter
+- Converts amounts between multiple currencies using real-time exchange rates.
+- Simple and responsive UI with instant conversion.
+- Error handling for invalid inputs and API failures.
+- Optimized for performance and smooth user experience.
+- Tech Stack: React, TailwindCSS, API.
+ 🔗 Live: https://currency-converter-nine-puce.vercel.app/
+
 
 #### 🌐 Personal Portfolio Website
 - Responsive developer portfolio showcasing skills, projects, and contact links.
