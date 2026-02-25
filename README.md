@@ -106,11 +106,7 @@
 </p>
 
 ---
-### 🏆 LeetCode Badges
-<p align="center"> <a href="https://leetcode.com/u/adarsh_dwivedi1/" target="_blank"> <img src="https://leetcard.jacoblin.cool/adarsh_dwivedi1?theme=dark&font=Fira%20Code&ext=heatmap" /> </a> </p>
 
-
----
 
 ### ⚡ Fun Facts
 
