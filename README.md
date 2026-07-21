@@ -166,7 +166,7 @@
 - Responsive developer portfolio showcasing skills, projects, and contact links.
 - Optimized UI with animations and modern layout.
 - Tech Stack: React, Tailwind CSS, Vercel
-- 🔗 Live: https://adarsh-dwivedi-portfolioj.vercel.app/
+- 🔗 Live: https://adarsh-dwivedi.vercel.app/
 
 ---
 
