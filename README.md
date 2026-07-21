@@ -75,10 +75,14 @@
 
 ### 📊 GitHub Stats & Metrics
 
-<div style="width:100; display:flex; justify-content:center; align-items:center; gap:40px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshh8&show_icons=true&theme=radical" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshh8&layout=compact&theme=radical" height="220">
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshh8&theme=tokyonight" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshh8&theme=tokyonight" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarshh8&theme=tokyonight&utcOffset=5.5" width="49%">
+</p>
 
 
 ---
