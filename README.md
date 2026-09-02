@@ -12,7 +12,7 @@
 ---
 
 
-### 👨‍💻 About Myself 
+### 👨‍💻 About Me
 
 <img align="right" src="https://i.pinimg.com/originals/c5/e0/99/c5e0996666b3edaea9249535c5edaf98.gif" width="280" />
 
